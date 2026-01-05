@@ -1,4 +1,4 @@
-name: jaffle_shop_finance
+name: jaffleshop_finance
 config-version: 2
 model-paths:
   - models
